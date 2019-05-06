@@ -212,7 +212,7 @@ p{
   top: 50%;
   left: 50%;
   margin-top: -40px;       /* heightの半分のマイナス値 */
-  margin-left: -40px;      /* widthの半分のマイナス値 */
+  margin-left: -100px;      /* widthの半分のマイナス値 */
   z-index: 10;             /* #fadeより多い値を入れて下さい */
 }
 #fade{
