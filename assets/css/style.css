@@ -118,7 +118,7 @@ header nav ul li a small{
 #nav_toggle span{
   display: block;
   height: 2px;
-  background: #d8d8d8;
+  background: #b1b1b1;
   position:fixed;
   width: 32px;
   margin-top: 8vh;
