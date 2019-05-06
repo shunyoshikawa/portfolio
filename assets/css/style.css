@@ -117,7 +117,7 @@ header nav ul li a small{
 }
 #nav_toggle span{
   display: block;
-  height: 2px;
+  height: 1px;
   background: #b1b1b1;
   position:fixed;
   width: 32px;
@@ -146,7 +146,7 @@ header nav ul li a small{
 }
 .open #nav_toggle span:nth-child(2) {
     width: 0;
-    right: 20%;
+    right: 30%;
   /* display: none; */
 }
 .open #nav_toggle span:nth-child(3) {
