@@ -107,8 +107,8 @@ header nav ul li a small{
   display: block;
   width: 64px;
   height: 64px;
-  margin-top: 5vh;
-  right: 18px;
+  margin-top: 6vh;
+  right: 30px;
   position: fixed;
   z-index: 200;
 }
@@ -121,8 +121,8 @@ header nav ul li a small{
   background: #b1b1b1;
   position:fixed;
   width: 32px;
-  margin-top: 8vh;
-  right: 34px;
+  margin-top: 9vh;
+  right: 46px;
   -webkit-transition: 0.5s ease-in-out;
   -moz-transition: 0.5s ease-in-out;
   transition: 0.5s ease-in-out;
@@ -180,7 +180,7 @@ h1{
   font-weight: 100;
   font-size: 15vw;
   line-height: inherit;
-  margin-top: 6vh;
+  margin-top: 4vh;
   margin-left: 46px;
   margin-right: 92px;
   color: #c1c1c1;
