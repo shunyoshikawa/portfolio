@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/fontawesome.css" integrity="sha384-0b7ERybvrT5RZyD80ojw6KNKz6nIAlgOKXIcJ0CV7A6Iia8yt2y1bBfLBOwoc9fQ" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
     <link rel="stylesheet" href="../assets/css/style.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript">
         $(function() {
             var TopBtn = $('#PageTopBtn');    
@@ -55,7 +55,7 @@
 </head>
 
 <body>
-    
+
     <div id="loader">
         <img src="../assets/img/gif-load.gif" width="200px" height="45px" />
     </div>
@@ -63,7 +63,28 @@
     <div id="container">
 
 
-                
+        <header>
+            <div class="inner clearfix">
+                <div id="nav_toggle">
+                    <div>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="#">Index</a></li>
+                        <li><a href="#">Projects</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Information</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </nav>
+            </div> 
+        </header>
+
+
         <section class="conA">
         <div class="container">
             <div class="text">
@@ -112,8 +133,14 @@
 
         <p id="PageTopBtn"><a href="#wrap">∧</a></p>
 
-
-    
+        <script type="text/javascript">
+            $(function(){
+                $('#nav_toggle').click(function(){
+                            $("header").toggleClass('open');
+                    $("nav").fadeToggle(500);
+                        });
+            });
+        </script>
     </div>
 
 </body>
