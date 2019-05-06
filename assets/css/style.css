@@ -58,9 +58,9 @@ nav{
   display:none;
   position: fixed;
   top:0;
-  width: 36%;
+  width: 32vw;
   height: 100vh;
-  background:rgba(25,25,25,0.9);
+  background:rgba(20,20,20,0.95);
   right: 0;
   z-index: 100;
 }
@@ -69,14 +69,14 @@ header nav ul{
   width: 90%;
   height: 350px;
   position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
+  top: 0;
+  right: 0;
+  bottom: 16vh;
+  left: 2vw;
   margin: auto;
 }
 header nav ul li{
-  margin: 10 auto;
+  margin: 0 auto;
   text-align: left;
 }
 header nav ul li:last-child{
@@ -87,9 +87,19 @@ header nav ul li a{
   color: #c1c1c1;
   text-decoration: none;
   font-family: 'Lato';
-  font-size: 2.4rem;
+  font-size: 2.2rem;
   font-weight:100;
   padding: 16px;
+}
+header nav ul li a small{
+  display: block;
+  color: #a5a5a5;
+  text-decoration: none;
+  font-family: 'Lato';
+  font-size: 0.6rem;
+  font-weight: 300;
+  line-height: 1rem;
+  padding: 2px;
 }
 
 /*humb BTN*/
