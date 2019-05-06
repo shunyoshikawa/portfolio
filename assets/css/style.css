@@ -53,7 +53,7 @@ table {
 
 
 /* header */
-/*メニュー部分*/
+/*nav menu*/
 nav{
   display:none;
   position: fixed;
@@ -77,7 +77,7 @@ header nav ul{
 }
 header nav ul li{
   margin: 10 auto;
-  text-align: left;
+  text-align: center;
 }
 header nav ul li:last-child{
   border: none;
@@ -92,12 +92,12 @@ header nav ul li a{
   padding: 16px;
 }
 
-/*開閉ボタン*/
+/*humb BTN*/
 #nav_toggle{
   display: block;
   width: 32px;
   height: 32px;
-  margin-top: 8vh;
+  margin-top: 10vh;
   right: 34px;
   position: fixed;
   z-index: 200;
@@ -127,7 +127,7 @@ header nav ul li a{
   top:24px;
 }
 
-/*開閉ボタンopen時*/
+/*humb BTN opening stats*/
 .open #nav_toggle span:nth-child(1) {
     top: 12px;
      -webkit-transform: rotate(135deg);
@@ -147,7 +147,7 @@ header nav ul li a{
 }
 
 
-/* 基本設定 */
+/* common style */
 body,html {
     height: 100%;
   }
