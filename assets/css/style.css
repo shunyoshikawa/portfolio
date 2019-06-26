@@ -51,10 +51,7 @@ table {
 	color: rgba(225, 225, 225, 0.5);
 }
 
-html {
-  // ビヨヨン効果を無効化する
-  overscroll-behavior: contain;
-}
+
 
 /* header */
 /*nav menu*/
@@ -166,7 +163,7 @@ body,html {
     height: 100%;
   }
   body {
-    background-color: #f4f4f4;
+    background-color: #000;
     margin: 0;
     font-family: YakuHanJP, 'Open Sans', "Noto Sans Japanese", 'Lato',
       'Muli', 'メイリオ', 'Hiragino Kaku Gothic ProN', 'Heebo', sans-serif;
