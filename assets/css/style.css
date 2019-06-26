@@ -53,7 +53,7 @@ table {
 
 html {
   // ビヨヨン効果を無効化する
-  overscroll-behavior: none;
+  overscroll-behavior: contain;
 }
 
 /* header */
