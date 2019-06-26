@@ -51,6 +51,10 @@ table {
 	color: rgba(225, 225, 225, 0.5);
 }
 
+html {
+  // ビヨヨン効果を無効化する
+  overscroll-behavior: none;
+}
 
 /* header */
 /*nav menu*/
