@@ -163,13 +163,13 @@ body,html {
     height: 100%;
   }
   body {
-    background-color: #464646;
+    /* background-color: #464646;
     background-image: url("../img/cover.png");
     background-position: center center;
     background-size: cover; 
     background-repeat: no-repeat;
     background-attachment: fixed;
-    margin: 0;
+    margin: 0; */
     font-family: YakuHanJP, 'Open Sans', "Noto Sans Japanese", 'Lato',
       'Muli', 'メイリオ', 'Hiragino Kaku Gothic ProN', 'Heebo', sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -177,10 +177,19 @@ body,html {
   }
 
 
+#container{
+  height: 100%;
+  background-image: url("../img/cover.png");
+  background-position: center center;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+}
+
 .text{
   position: fixed;
 }
-
 
 
 h1{
@@ -266,7 +275,7 @@ h2 a{
   display: none;
   position: fixed;
   /* for_IE6 */
-  _position: absolute;
+  position: absolute;
   top: 50%;
   left: 50%;
   /* number_harlf_of_height */
@@ -284,5 +293,5 @@ h2 a{
   position: absolute;
   top: 0px;
   left: 0px;
-  z-index: 1000;
+  /* z-index: 50000; */
 }
