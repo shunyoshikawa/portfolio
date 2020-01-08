@@ -20,10 +20,7 @@ since 2016AW season to 2017SS.
 本製品を使用することで、DeLTA-Liteで生成したモデルを
 より簡単にハードウェア上で評価できます。
 
-
-
-DeLTA-Kit is 
-Deep learning on palm-sized devices
+DeLTA-Kit is palm-sized kit for evaluating practicality of deep learning solution.
 This kit has a complete set of hardware necessary for evaluation.
-By using this product, models generated with DeLTA-Lite can be
-Easier to evaluate on hardware.
+By using this kit, generated models can be deployed on hardware and can be used deep learning demo easliy.
+
