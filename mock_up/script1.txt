@@ -15,3 +15,15 @@ since 2016AW season to 2017SS.
 ‘17 S/S “Luminous Exotic”
 
 
+手のひらサイズのデバイス上でDeep Learningを
+評価するために必要なハードウェア一式が揃っているキットです。
+本製品を使用することで、DeLTA-Liteで生成したモデルを
+より簡単にハードウェア上で評価できます。
+
+
+
+DeLTA-Kit is 
+Deep learning on palm-sized devices
+This kit has a complete set of hardware necessary for evaluation.
+By using this product, models generated with DeLTA-Lite can be
+Easier to evaluate on hardware.
