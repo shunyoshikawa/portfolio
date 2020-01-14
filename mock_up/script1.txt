@@ -14,7 +14,6 @@ since 2016AW season to 2017SS.
 ‘16 A/W “Urban Bohemian”
 ‘17 S/S “Luminous Exotic”
 
-
 DeLTA-Kit is palm-sized kit for evaluating practicality of deep learning solution.
 This kit has a complete set of hardware necessary for evaluation.
 By using this kit, generated models can be deployed on hardware and can be used deep learning demo easliy.
