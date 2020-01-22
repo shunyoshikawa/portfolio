@@ -201,15 +201,15 @@ h1{
   padding-top: 10vh;
   margin-left: 46px;
   margin-right: 92px;
-  margin-bottom: 5vh;
+  margin-bottom: 4vh;
   color: rgb(252, 252, 252);
 }
 
 h2 a{
   font-family: 'Lato';
-  font-weight: 300;
+  font-weight: 100;
   font-size: 1em;
-  line-height: 1.2em;
+  line-height: 1.4em;
   margin-left: 46px;
   margin-right: 46px;
   color: #f8f8f8;
