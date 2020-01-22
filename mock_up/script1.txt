@@ -19,4 +19,7 @@ This kit has a complete set of hardware necessary for evaluation.
 By using this kit, generated models can be deployed on hardware and can be used deep learning demo easliy.
 
 
-Blueoil is a software stack dedicated to neural networks. It includes special training method for quantization and original networks designed to be highly compatible with FPGA devices. This is done in order to operate a neural network at high speed on a low-powered FPGA. New models can be trained easily by only preparing data. The finished model can be converted into a binary file that runs on FPGA or CPU devices with a single command.
+Blueoil is a software stack dedicated to neural networks.
+It includes special training method for quantization and original networks designed to be highly compatible with FPGA devices.
+This is done in order to operate a neural network at high speed on a low-powered FPGA. New models can be trained easily by only preparing data.
+The finished model can be converted into a binary file that runs on FPGA or CPU devices with a single command.
