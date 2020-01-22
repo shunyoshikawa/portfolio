@@ -208,11 +208,11 @@ h1{
 h2 a{
   font-family: 'Lato';
   font-weight: 300;
-  font-size: 1.2em;
-  line-height: 1.8em;
+  font-size: 1em;
+  line-height: 1.2em;
   margin-left: 46px;
   margin-right: 46px;
-  color: #fff;
+  color: #f8f8f8;
   text-decoration: none;
 }
 
