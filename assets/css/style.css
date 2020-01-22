@@ -88,7 +88,7 @@ header nav ul li a{
   color: #c1c1c1;
   text-decoration: none;
   font-family: 'Lato';
-  font-size: 2.2rem;
+  font-size: 1.8rem;
   font-weight:100;
   padding: 16px;
 }
@@ -119,7 +119,7 @@ header nav ul li a small{
 #nav_toggle span{
   display: block;
   height: 1px;
-  background: #b1b1b1;
+  background: #a7a7a7;
   position:fixed;
   width: 32px;
   margin-top: 9vh;
@@ -198,21 +198,21 @@ h1{
   font-size: 2.4em;
   line-height: inherit;
   position: center;
-  padding-top: 10vh;
+  padding-top: 8vh;
   margin-left: 46px;
   margin-right: 92px;
   margin-bottom: 4vh;
-  color: rgb(252, 252, 252);
+  color: #fcfcfc;
 }
 
 h2 a{
   font-family: 'Lato';
-  font-weight: 100;
+  font-weight: 300;
   font-size: 1em;
-  line-height: 1.4em;
+  line-height: 1.15em;
   margin-left: 46px;
   margin-right: 46px;
-  color: #f8f8f8;
+  color: #fafafa;
   text-decoration: none;
 }
 
