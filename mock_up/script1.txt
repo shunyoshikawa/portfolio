@@ -24,3 +24,7 @@ It includes special training method for quantization and original networks desig
 This is done in order to operate a neural network at high speed on a low-powered FPGA. New models can be trained easily by only preparing data.
 The finished model can be converted into a binary file that runs on FPGA or CPU devices with a single command.
 
+ディープラーニングのサービス提供会社として、ディープラーニングにおける推論処理部分
+を担うアクセラレータを、小型化したSoCボードをLM社エンジニアが企画。それに際し、
+コンパクトなAIカメラとして、試作プロダクトのデザインを行った。
+
