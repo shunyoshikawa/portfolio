@@ -28,3 +28,11 @@ The finished model can be converted into a binary file that runs on FPGA or CPU 
 を担うアクセラレータを、小型化したSoCボードをLM社エンジニアが企画。それに際し、
 コンパクトなAIカメラとして、試作プロダクトのデザインを行った。
 
+
+エッヂディープラーニングを実用するためのパームトッププロダクト、DeLTA-Kit。
+その発展形としてtype-iiが開発され、カメラと接続することでより実用的なデモを実行可能になった。
+このプロジェクトでは外観をデザイン。ジョイント機構を採用しプロダクトとしての具体的な設計を試みた。
+DeLTA-Kit, a palmtop product for practical use of edge learning.
+Type-ii was developed as an advanced form of it, and it became possible to execute more practical demonstrations by connecting to a camera.
+In this project, design the appearance. A concrete design as a product was attempted using a joint mechanism.
+
