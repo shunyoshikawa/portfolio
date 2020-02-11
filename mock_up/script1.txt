@@ -1,4 +1,4 @@
-https://shunyoshikawa.github.io/portfolio/assets/index.html
+https://shunyoshikawa.github.io/portfolio/index.html
 Portfolio
 
 This is a joint project with Yohei Nobe.
