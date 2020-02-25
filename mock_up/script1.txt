@@ -46,3 +46,16 @@ In the process for my design works, approaching the nuance which can’t be form
 
 fixed script_ ↓
 This shoe collection is in tribute to the likes of a painter LeonardFujita. Incorporating Bohemian details from the Montparnasse of Parisian town in which Fujita had lived, I have attempted to express the Bohemian aesthetic in the form of specifically weaved shoelaces. When you prepare to go out far with weaving a shoelace by picturing a brilliant journey, you can be a traveler such as Leonard Fujita.
+
+
+
+LeapMindにて、推論モデルの高度な圧縮を可能にするネットワークライブラリを含んだソフトウェアスタックをオープンソースとして公開することとなった。
+このプロジェクトではロゴマーク、ロゴタイプに加えヴィジュルイメージの作成を行った。それらは公式ランディングページに用いられている。また、このオープンソースプラットフォームの紹介動画等、広告ツールの作成も行なった。
+
+
+
+At LeapMind, a software stack that includes some of the network libraries that enable
+advanced minimum quantization of inference models was released as open-source.
+In this project, I created a visual image in addition to the logo and logotype. 
+These are used on the official landing page.
+And I also created advertising tools such as videos or leaflet for introducing use ways of the open-source platform.
