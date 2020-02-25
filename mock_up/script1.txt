@@ -59,3 +59,10 @@ advanced minimum quantization of inference models was released as open-source.
 In this project, I created a visual image in addition to the logo and logotype. 
 These are used on the official landing page.
 And I also created advertising tools such as videos or leaflet for introducing use ways of the open-source platform.
+
+
+ダイアグラム　構造　：　幾何学図形応用
+名称の由来はウラジーミル・ソローキンのголубое сало(Blue Lard)から引用。近代社会の情報の海に、DeepLearningを活用するための源(Blueoil)が滴り落ち、染み込んでいく情景描写を"B"と"o"の文字と重ね合わせる様に正円の連なりで表現した。
+The origin of the name is quoted by novel "голубое сало (Blue Lard)" written by Vladimir Sorokin. 
+The scene description in which the source (Blueoil) of DeepLearning drips into the sea of ​​information in modern society 
+and expresses it as a series of perfect circles is superimposed on the letters "B" and "o".
