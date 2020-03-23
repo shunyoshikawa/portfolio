@@ -21,6 +21,8 @@ By using this kit, generated models can be deployed on hardware and can be used 
 Part of the outerwear were designed in a reasonable shape for the heat exhaust and operable pin positions of the De10SoC board.
 Making easily to set up and operate demonstrations without having to touch the Cyclone® V FPGA chip or the included other CPU.
 
+Initially, we provided a set of SoC boards and adapters (except for the outer part), plus a classification inference model (installed in micro SD) program. 
+I also designed product packaging made from cardboard.
 
 
 Blueoil is a software stack dedicated to neural networks.
@@ -39,6 +41,16 @@ The finished model can be converted into a binary file that runs on FPGA or CPU 
 DeLTA-Kit, a palmtop product for practical use of edge learning.
 Type-ii was developed as an advanced form of it, and it became possible to execute more practical demonstrations by connecting to a camera.
 In this project, design the appearance. A concrete design as a product was attempted using a joint mechanism.
+
+掌サイズのDeep Learning実用検証キットのSoCデバイスを独自に開発。よりコンパクトにすることで、カメラを一体化させたAI-Boxとして、提案した。
+カメラとアクセラレータボード意外に必要なパーツを、下にスタックしていく構造を設計した。また、画像処理を前提としたカメラの装着に替わるマイクなどの入力機も差し替えることが出来る様にすることを想定している。
+In Leap Mind inc, developed our own SoC device for a palm-sized Deep Learning practical verification kit. By making it more compact, it was proposed as an AI-Box with an integrated camera.
+
+
+
+
+
+
 
 XANADU TOKYOにおけるアートディレクションワークの一貫として、ブランド"XND"を企画。ヴィジュアルイメージとロゴタイプを作成した。
 現在も企画は随時進行中。アパレル等への展開を目指している。
