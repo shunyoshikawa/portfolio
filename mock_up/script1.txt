@@ -18,6 +18,10 @@ DeLTA-Kit is palm-sized kit for evaluating practicality of deep learning solutio
 This kit has a complete set of hardware necessary for evaluation.
 By using this kit, generated models can be deployed on hardware and can be used deep learning demo easliy.
 
+Part of the outerwear were designed in a reasonable shape for the heat exhaust and operable pin positions of the De10SoC board.
+Making easily to set up and operate demonstrations without having to touch the Cyclone® V FPGA chip or the included other CPU.
+
+
 
 Blueoil is a software stack dedicated to neural networks.
 It includes special training method for quantization and original networks designed to be highly compatible with FPGA devices.
@@ -104,3 +108,4 @@ Ghillie's style lace-up is reproduced with a belt. The gloss of the buckle and t
 At 2016 autumn / winter "Urban Bohemian" collection line up.
 about 10mm thick instorm is in inside. And shoe last was made in pursuit of a beautiful shape. 
 As shown in the collection title, to bring the freedom of the Bohemian into an urban lifestyle, so detachable shoe laces with a tassel is attached.
+
