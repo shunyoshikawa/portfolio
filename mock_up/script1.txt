@@ -21,7 +21,7 @@ By using this kit, generated models can be deployed on hardware and can be used 
 Part of the outerwear were designed in a reasonable shape for the heat exhaust and operable pin positions of the De10SoC board.
 Making easily to set up and operate demonstrations without having to touch the Cyclone® V FPGA chip or the included other CPU.
 
-Initially, we provided a set of SoC boards and adapters (except for the outer part), plus a classification inference model (installed in micro SD) program. 
+Initially, LeapMind provided a set of SoC boards and adapters (except for the outer part), plus a classification inference model (installed in micro SD) program.
 I also designed product packaging made from cardboard.
 
 
@@ -45,8 +45,11 @@ In this project, design the appearance. A concrete design as a product was attem
 掌サイズのDeep Learning実用検証キットのSoCデバイスを独自に開発。よりコンパクトにすることで、カメラを一体化させたAI-Boxとして、提案した。
 カメラとアクセラレータボード意外に必要なパーツを、下にスタックしていく構造を設計した。また、画像処理を前提としたカメラの装着に替わるマイクなどの入力機も差し替えることが出来る様にすることを想定している。
 In Leap Mind inc, developed our own SoC device for a palm-sized Deep Learning practical verification kit. By making it more compact, it was proposed as an AI-Box with an integrated camera.
+I designed a structure that stacks necessary parts underneath, except for the camera and accelerator board.
+It is also envisaged that input devices such as microphones, which replace the camera that is supposed to be used for image processing, will be able to be switched out.
 
-
+A demonstration of a parking management system using an inference model to detect vehicles in a parking lot was given.
+Along with the type-ii, a Raspberry-Pi was installed on the back of the vehicle, and an LED indicator was also created to show empty and full parking spaces. The detection of the vehicle is performed by reasoning with TYPE-II and can be checked on the management screen.
 
 
 
