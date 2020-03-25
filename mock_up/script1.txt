@@ -1,29 +1,28 @@
 https://shunyoshikawa.github.io/portfolio
 Portfolio
 
-###
-archive titles
-DIRECTION WORK FOR XANADU TOKYO WEBSITE
-    COLLABORATED WITH SHUICHI MIZUTA
-LEATHER EYEWEAR "AJI"
-    GRADUATION WORK AT TAMA ART UNIVERSITY 2014
-EXHIBITION “FETICHE”
-    COLLABORATED ART EXHIBITION WITH YOHEI NOBE
-PRODUCT DEVELOPMENT WORKS FOR AMOROSA
-    CORPORATE WORKS AT DIANA CO.,LTD.
-SHOES DESIGN COLLECTION 'BOHEME'
-    JOINT RESEARCH PROJECT WITH CAMPER ( DESIGN THEMA “TRAVEL” )
-PROJECT DELTA-KIT
-    CORPORATE WORK AT LEAPMIND INC.
-PROJECT DELTA-KIT TYPE-II
-    CORPORATE WORK AT LEAPMIND INC. DEMO PROJECT
-BLUEOIL
-    CORPORATE WORK, OPEN SOURCE PROJECT
-DIRECTION WORKS FOR XND
-    COLLABORATED WITH XANADU TOKYO
+###archive titles
+    DIRECTION WORK FOR XANADU TOKYO WEBSITE
+        COLLABORATED WITH SHUICHI MIZUTA
+    LEATHER EYEWEAR "AJI"
+        GRADUATION WORK AT TAMA ART UNIVERSITY 2014
+    EXHIBITION “FETICHE”
+        COLLABORATED ART EXHIBITION WITH YOHEI NOBE
+    PRODUCT DEVELOPMENT WORKS FOR AMOROSA
+        CORPORATE WORKS AT DIANA CO.,LTD.
+    SHOES DESIGN COLLECTION 'BOHEME'
+        JOINT RESEARCH PROJECT WITH CAMPER ( DESIGN THEMA “TRAVEL” )
+    PROJECT DELTA-KIT
+        CORPORATE WORK AT LEAPMIND INC.
+    PROJECT DELTA-KIT TYPE-II
+        CORPORATE WORK AT LEAPMIND INC. DEMO PROJECT
+    BLUEOIL
+        CORPORATE WORK, OPEN SOURCE PROJECT
+    DIRECTION WORKS FOR XND
+        COLLABORATED WITH XANADU TOKYO
 ###
 
-####
+####archive page
     DIRECTION WORK FOR XANADU TOKYO WEBSITE
     COLLABORATED WITH SHUICHI MIZUTA
     
@@ -126,6 +125,41 @@ DIRECTION WORKS FOR XND
 
     In details...
 ####
+
+#####DIRECTION WORK FOR XANADU TOKYO WEBSITE
+    DIRECTION WORK FOR XANADU TOKYO WEBSITE
+    COLLABORATED WITH SHUICHI MIZUTA
+        On the top page, the exhibition by Shinichi Mizuta is previewed with dissolve animation.
+        
+        On the gallery page, images include in an archive of the past XANADU TOKYO works.
+
+        Responsible for the design direction of web site, which will be renewed to commemorate the 8th anniversary of the opening of select shop XANADU TOKYO in Tokyo. Based on Shuichi Mizuta's artwork, a “mysterious” site was created with the concept. Regardless of the genre, the image of the store that handles a variety of domestic brands selected by the owner Tatsuro Motohashi is expressed with delicate tones and sometimes dynamic object specifications.
+#####
+
+#####LEATHER EYEWEAR "AJI"
+    LEATHER EYEWEAR "AJI"
+        GRADUATION WORK AT TAMA ART UNIVERSITY 2014
+#####
+
+#####EXHIBITION “FETICHE”
+    EXHIBITION “FETICHE”
+    COLLABORATED ART EXHIBITION WITH YOHEI NOBE
+        In a space under the JR Akihabara Station viaduct, which was about to undergo a major renovation project, we received a request from a photographer, Yohei Nobe, to exhibit a joint work. we developed artwork mainly on photographic works on the theme of fetishism. Philosophically, we considered a system that appeals to humans, and gave and expressed motifs and themes from various perspectives.
+
+        Inspired by the Latin word "Facticius", the origin of the word, I created a work focusing on fruit seeds, objects that are shaped by natural forces. It captures how the inherent value of natural seeds changes as a result of discoloration caused by the artificial process of coloring.
+        
+        These works were expanded as novelties such as postcards and can badges. And, I created typography for the exhibition title with the theme of "the process of changing the existing value of objects".
+
+
+        View of exhibition site
+        
+        Invitation and flyer visual
+#####
+
+
+
+
+
 
 
 
