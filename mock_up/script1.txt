@@ -6,6 +6,29 @@ Performed art installation on the theme of fetishism.
 A work in which tile and film are superimposed. In addition, works that focus on the curves of the hair will be exhibited.
 Designed the announcement poster and created the typeface.
 
+###
+archive titles
+DERECTION WORK FOR XANADU TOKYO WEBSITE
+    COLABORATED WITH SHUICH MIZUTA
+LEATHER EYEWEAR "AJI"
+    GRADUATION WORK AT TAMA ART UNIVERSITY 2014
+EXHIBITION “FETICHE”
+    COLABORATED ART EXHIBITION WITH NOBE YOHEI
+PRODUCT DEVELOPMENT WORKS FOR AMOROSA
+    CORPORATE WORKS AT DIANA CO.,LTD.
+SHOES DESIGN COLLECTION 'BHOEME'
+    JOINT RESEARCH PROJECT WITH CAMPER ( DESIGN THEMA “TRAVEL” )
+PROJECT DELTA-KIT
+    CORPOLATE WORK AT LEAPMIND INC.
+PROJECT DELTA-KIT TYPE II
+    CORPOLATE WORK AT LEAPMIND INC. DEMO PROJECT
+BLUEOIL
+    CORPORATE WORK, OPEN SOURCE PROJECT
+DERECTION WORKS FOR XND
+    COLABORATED WITH XANADU TOKYO
+###
+
+
 
 I joined DIANA Corporation in 2014. 
 After that, I was in charge of marchandise planning
@@ -57,16 +80,14 @@ Along with the type-ii, a Raspberry-Pi was installed on the back of the vehicle,
 
 XANADU TOKYOにおけるアートディレクションワークの一貫として、ブランド"XND"を企画。ヴィジュアルイメージとロゴタイプを作成した。
 現在も企画は随時進行中。アパレル等への展開を目指している。
-
-
 In the process for my design works, approaching the nuance which can’t be formed by verbalizing is one of the most important element.Manifold influences according to such like a nuance will be seen that in my daily tasks so it can't be ignored.This design works interpreting not only progressive manufacturing process but also important sensuous consideration for myself.
-
+I designed the book's editorial as both a lookbook and an introduction to the brand. In parallel, I also created the typeface and visual image of the logo. The project continues to be developed as an improvisation project. 
+I also created the following visual as an early teaser image.
+I also created the following visual as an early teaser image. It is now used as an iconic visual for "@xanadutokyostocks"  which is selling merchandise by e-commerce order and leasing service for stylists.
 
 
 fixed script_ ↓
 This shoe collection is in tribute to the likes of a painter LeonardFujita. Incorporating Bohemian details from the Montparnasse of Parisian town in which Fujita had lived, I have attempted to express the Bohemian aesthetic in the form of specifically weaved shoelaces. When you prepare to go out far with weaving a shoelace by picturing a brilliant journey, you can be a traveler such as Leonard Fujita.
-
-
 
 LeapMindにて、推論モデルの高度な圧縮を可能にするネットワークライブラリを含んだソフトウェアスタックをオープンソースとして公開することとなった。
 このプロジェクトではロゴマーク、ロゴタイプに加えヴィジュルイメージの作成を行った。それらは公式ランディングページに用いられている。また、このオープンソースプラットフォームの紹介動画等、広告ツールの作成も行なった。
