@@ -1,11 +1,6 @@
 https://shunyoshikawa.github.io/portfolio
 Portfolio
 
-This is a joint project with Yohei Nobe.
-Performed art installation on the theme of fetishism.
-A work in which tile and film are superimposed. In addition, works that focus on the curves of the hair will be exhibited.
-Designed the announcement poster and created the typeface.
-
 ###
 archive titles
 DERECTION WORK FOR XANADU TOKYO WEBSITE
@@ -27,6 +22,82 @@ BLUEOIL
 DERECTION WORKS FOR XND
     COLABORATED WITH XANADU TOKYO
 ###
+
+####
+DIRECTION WORK FOR XANADU TOKYO WEBSITE
+COLLABORATED WITH SHUICH MIZUTA
+Responsible for the design direction of the web site, which will be renewed to commemorate the 8th anniversary of the opening of select shop XANADU TOKYO in Tokyo. Based on Shuichi Mizuta's artwork, a “mysterious” site was created with the concept. Regardless of the genre, the image of the store that handles a variety of domestic brands selected by the owner Tatsuro Motohashi is expressed with delicate tones and sometimes dynamic object specifications.
+In details...
+http://www.xanadutokyo.jp/
+
+LETHER EYEWEAR "AJI"
+GRADUATION WORK AT TAMA ART UNIVERSITY 2014
+Flexible and delicate eyewear made of one sheet of leather material.
+consideration from various angles about Japanese word "AJI".
+In the process for my design works, approaching the nuance which can't be formed by verbalizing is one of the most important element. Manifold influences according to such a nuance will be seen that in my daily tasks so it can't be ignored. This design works interpreting not only progressive manufacturing processes but also important sensuous consideration for my self.
+In details...
+https://www.tamabi.ac.jp/pro/g_works/2014/pd/s11/
+
+EXHIBITION “FETICHE”
+COLLABORATED WITH NOBE YOHEI
+This is a joint project with Yohei Nobe.
+Performed art installation on the theme of fetishism.
+A work in which tile and film are superimposed. In addition, works that focus on the curves of the hair will be exhibited.
+Designed the announcement poster and created the typeface.
+Place: 商場-akiba-
+2017.5.28 ~ 6.3
+In details...
+
+PRODUCT DEVELOPMENT WORKS FOR AMOROSA
+AT DIANA CO., LTD.
+I joined DIANA Corporation in 2014. 
+After that, I was in charge of merchandise planning and designed trend model lineup "amorosa"
+since 2016AW season to 2017SS.
+Collection title,
+‘16 A/W “Urban Bohemian”
+‘17 S/S “Luminous Exotic”
+In details...
+
+SHOES DESIGN COLLECTION 'BOHEME'
+JOINT RESEARCH PROJECT WITH CAMPER ( DESIGN THEMA “TRAVEL” )
+This shoe collection is in tribute to the likes of a painter LeonardFujita. Incorporating Bohemian details from the Montparnasse of Parisian town in which Fujita had lived, I have attempted to express the Bohemian aesthetic in the form of specifically weaved shoelaces. When you prepare to go out far with weaving a shoelace by picturing a brilliant journey, you can be a traveler such as Leonard Fujita.
+In details...
+
+PROJECT DELTA-KIT
+CORPORATE WORK AT LEAPMIND INC.
+DeLTA-Kit is a palm-sized kit for evaluating the practicality of deep learning solutions.
+This kit has a complete set of hardware necessary for evaluation.
+By using this kit, generated models can be deployed on hardware and can be used deep learning demo easily.
+In details...
+https://delta.leapmind.io/kit/
+
+PROJECT DELTA-KIT TYPE II
+CORPLATE WORK AT LEAPMIND INC. DEMO PROJECT
+DeLTA-Kit, a palmtop product for practical use of edge learning. Type-ii was developed as an advanced form of it, and it became possible to execute more practical demonstrations by connecting to a camera. In this project, design the appearance. A concrete design as a product was attempted using a joint mechanism.
+In details...
+
+BLUEOIL
+CORPORATE WORK, OPEN SOURCE PROJECT
+Blueoil is a software stack dedicated to neural networks. It includes special training methods for quantization and original networks designed to be highly compatible with FPGA devices. This is done in order to operate a neural network at high speed on a low-powered FPGA. New models can be trained easily by only preparing data. The finished model can be converted into a binary file that runs on FPGA or CPU devices with a single command.
+In details...
+https://blueoil.org/
+
+DIRECTION WORKS FOR XND
+COLLABORATED WITH XANADU TOKYO
+ Planning a brand "XND" as part of the art direction works for XANADU TOKYO. I created visual images and logotypes. This work is still in progress and aiming to expand into apparel or other products.
+In details...
+####
+
+
+
+
+
+
+
+This is a joint project with Yohei Nobe.
+Performed art installation on the theme of fetishism.
+A work in which tile and film are superimposed. In addition, works that focus on the curves of the hair will be exhibited.
+Designed the announcement poster and created the typeface.
 
 
 
