@@ -160,134 +160,127 @@ Portfolio
 
 
 
-
-
-
-
-
-
 ##- memo -##
 
-This is a joint project with Yohei Nobe.
-Performed art installation on the theme of fetishism.
-A work in which tile and film are superimposed. In addition, works that focus on the curves of the hair will be exhibited.
-Designed the announcement poster and created the typeface.
+    This is a joint project with Yohei Nobe.
+    Performed art installation on the theme of fetishism.
+    A work in which tile and film are superimposed. In addition, works that focus on the curves of the hair will be exhibited.
+    Designed the announcement poster and created the typeface.
 
 
 
-I joined DIANA Corporation in 2014. 
-After that, I was in charge of marchandise planning
-and designed trend model lineup "amorosa"
-since 2016AW season to 2017SS.
-‘16 A/W “Urban Bohemian”
-‘17 S/S “Luminous Exotic”
+    I joined DIANA Corporation in 2014. 
+    After that, I was in charge of marchandise planning
+    and designed trend model lineup "amorosa"
+    since 2016AW season to 2017SS.
+    ‘16 A/W “Urban Bohemian”
+    ‘17 S/S “Luminous Exotic”
 
-DeLTA-Kit is palm-sized kit for evaluating practicality of deep learning solution.
-This kit has a complete set of hardware necessary for evaluation.
-By using this kit, generated models can be deployed on hardware and can be used deep learning demo easliy.
+    DeLTA-Kit is palm-sized kit for evaluating practicality of deep learning solution.
+    This kit has a complete set of hardware necessary for evaluation.
+    By using this kit, generated models can be deployed on hardware and can be used deep learning demo easliy.
 
-Part of the outerwear were designed in a reasonable shape for the heat exhaust and operable pin positions of the De10SoC board.
-Making easily to set up and operate demonstrations without having to touch the Cyclone® V FPGA chip or the included other CPU.
+    Part of the outerwear were designed in a reasonable shape for the heat exhaust and operable pin positions of the De10SoC board.
+    Making easily to set up and operate demonstrations without having to touch the Cyclone® V FPGA chip or the included other CPU.
 
-Initially, LeapMind provided a set of SoC boards and adapters (except for the outer part), plus a classification inference model (installed in micro SD) program.
-I also designed product packaging made from cardboard.
-
-
-Blueoil is a software stack dedicated to neural networks.
-It includes special training method for quantization and original networks designed to be highly compatible with FPGA devices.
-This is done in order to operate a neural network at high speed on a low-powered FPGA. New models can be trained easily by only preparing data.
-The finished model can be converted into a binary file that runs on FPGA or CPU devices with a single command.
-
-ディープラーニングのサービス提供会社として、ディープラーニングにおける推論処理部分
-を担うアクセラレータを、小型化したSoCボードをLM社エンジニアが企画。それに際し、
-コンパクトなAIカメラとして、試作プロダクトのデザインを行った。
+    Initially, LeapMind provided a set of SoC boards and adapters (except for the outer part), plus a classification inference model (installed in micro SD) program.
+    I also designed product packaging made from cardboard.
 
 
-エッヂディープラーニングを実用するためのパームトッププロダクト、DeLTA-Kit。
-その発展形としてtype-iiが開発され、カメラと接続することでより実用的なデモを実行可能になった。
-このプロジェクトでは外観をデザイン。ジョイント機構を採用しプロダクトとしての具体的な設計を試みた。
-DeLTA-Kit, a palmtop product for practical use of edge learning.
-Type-ii was developed as an advanced form of it, and it became possible to execute more practical demonstrations by connecting to a camera.
-In this project, design the appearance. A concrete design as a product was attempted using a joint mechanism.
+    Blueoil is a software stack dedicated to neural networks.
+    It includes special training method for quantization and original networks designed to be highly compatible with FPGA devices.
+    This is done in order to operate a neural network at high speed on a low-powered FPGA. New models can be trained easily by only preparing data.
+    The finished model can be converted into a binary file that runs on FPGA or CPU devices with a single command.
 
-掌サイズのDeep Learning実用検証キットのSoCデバイスを独自に開発。よりコンパクトにすることで、カメラを一体化させたAI-Boxとして、提案した。
-カメラとアクセラレータボード意外に必要なパーツを、下にスタックしていく構造を設計した。また、画像処理を前提としたカメラの装着に替わるマイクなどの入力機も差し替えることが出来る様にすることを想定している。
-In Leap Mind inc, developed our own SoC device for a palm-sized Deep Learning practical verification kit. By making it more compact, it was proposed as an AI-Box with an integrated camera.
-I designed a structure that stacks necessary parts underneath, except for the camera and accelerator board.
-It is also envisaged that input devices such as microphones, which replace the camera that is supposed to be used for image processing, will be able to be switched out.
-
-A demonstration of a parking management system using an inference model to detect vehicles in a parking lot was given.
-Along with the type-ii, a Raspberry-Pi was installed on the back of the vehicle, and an LED indicator was also created to show empty and full parking spaces. The detection of the vehicle is performed by reasoning with TYPE-II and can be checked on the management screen.
+    ディープラーニングのサービス提供会社として、ディープラーニングにおける推論処理部分
+    を担うアクセラレータを、小型化したSoCボードをLM社エンジニアが企画。それに際し、
+    コンパクトなAIカメラとして、試作プロダクトのデザインを行った。
 
 
+    エッヂディープラーニングを実用するためのパームトッププロダクト、DeLTA-Kit。
+    その発展形としてtype-iiが開発され、カメラと接続することでより実用的なデモを実行可能になった。
+    このプロジェクトでは外観をデザイン。ジョイント機構を採用しプロダクトとしての具体的な設計を試みた。
+    DeLTA-Kit, a palmtop product for practical use of edge learning.
+    Type-ii was developed as an advanced form of it, and it became possible to execute more practical demonstrations by connecting to a camera.
+    In this project, design the appearance. A concrete design as a product was attempted using a joint mechanism.
+
+    掌サイズのDeep Learning実用検証キットのSoCデバイスを独自に開発。よりコンパクトにすることで、カメラを一体化させたAI-Boxとして、提案した。
+    カメラとアクセラレータボード意外に必要なパーツを、下にスタックしていく構造を設計した。また、画像処理を前提としたカメラの装着に替わるマイクなどの入力機も差し替えることが出来る様にすることを想定している。
+    In Leap Mind inc, developed our own SoC device for a palm-sized Deep Learning practical verification kit. By making it more compact, it was proposed as an AI-Box with an integrated camera.
+    I designed a structure that stacks necessary parts underneath, except for the camera and accelerator board.
+    It is also envisaged that input devices such as microphones, which replace the camera that is supposed to be used for image processing, will be able to be switched out.
+
+    A demonstration of a parking management system using an inference model to detect vehicles in a parking lot was given.
+    Along with the type-ii, a Raspberry-Pi was installed on the back of the vehicle, and an LED indicator was also created to show empty and full parking spaces. The detection of the vehicle is performed by reasoning with TYPE-II and can be checked on the management screen.
 
 
 
-XANADU TOKYOにおけるアートディレクションワークの一貫として、ブランド"XND"を企画。ヴィジュアルイメージとロゴタイプを作成した。
-現在も企画は随時進行中。アパレル等への展開を目指している。
-In the process for my design works, approaching the nuance which can’t be formed by verbalizing is one of the most important element.Manifold influences according to such like a nuance will be seen that in my daily tasks so it can't be ignored.This design works interpreting not only progressive manufacturing process but also important sensuous consideration for myself.
-I designed the book's editorial as both a lookbook and an introduction to the brand. In parallel, I also created the typeface and visual image of the logo. The project continues to be developed as an improvisation project. 
-I also created the following visual as an early teaser image.
-I also created the following visual as an early teaser image. It is now used as an iconic visual for "@xanadutokyostocks"  which is selling merchandise by e-commerce order and leasing service for stylists.
 
 
-fixed script_ ↓
-This shoe collection is in tribute to the likes of a painter LeonardFujita. Incorporating Bohemian details from the Montparnasse of Parisian town in which Fujita had lived, I have attempted to express the Bohemian aesthetic in the form of specifically weaved shoelaces. When you prepare to go out far with weaving a shoelace by picturing a brilliant journey, you can be a traveler such as Leonard Fujita.
-
-LeapMindにて、推論モデルの高度な圧縮を可能にするネットワークライブラリを含んだソフトウェアスタックをオープンソースとして公開することとなった。
-このプロジェクトではロゴマーク、ロゴタイプに加えヴィジュルイメージの作成を行った。それらは公式ランディングページに用いられている。また、このオープンソースプラットフォームの紹介動画等、広告ツールの作成も行なった。
-
-
-
-At LeapMind, a software stack that includes some of the network libraries that enable
-advanced minimum quantization of inference models was released as open-source.
-In this project, I created a visual image in addition to the logo and logotype. 
-These are used on the official landing page.
-And I also created advertising tools such as videos or leaflet for introducing use ways of the open-source platform.
+    XANADU TOKYOにおけるアートディレクションワークの一貫として、ブランド"XND"を企画。ヴィジュアルイメージとロゴタイプを作成した。
+    現在も企画は随時進行中。アパレル等への展開を目指している。
+    In the process for my design works, approaching the nuance which can’t be formed by verbalizing is one of the most important element.Manifold influences according to such like a nuance will be seen that in my daily tasks so it can't be ignored.This design works interpreting not only progressive manufacturing process but also important sensuous consideration for myself.
+    I designed the book's editorial as both a lookbook and an introduction to the brand. In parallel, I also created the typeface and visual image of the logo. The project continues to be developed as an improvisation project. 
+    I also created the following visual as an early teaser image.
+    I also created the following visual as an early teaser image. It is now used as an iconic visual for "@xanadutokyostocks"  which is selling merchandise by e-commerce order and leasing service for stylists.
 
 
-ダイアグラム　構造　：　幾何学図形応用　Diagram structure: Geometric figure application
-名称の由来はウラジーミル・ソローキンのголубое сало(Blue Lard)から引用。近代社会の情報の海に、DeepLearningを活用するための源(Blueoil)が滴り落ち、染み込んでいく情景描写を"B"と"o"の文字と重ね合わせる様に正円の連なりで表現した。
-The origin of the name is quoted by novel "голубое сало (Blue Lard)" written by Vladimir Sorokin. 
-The scene description in which the source (Blueoil) of DeepLearning drips into the sea of ​​information in modern society 
-and expresses it as a series of perfect circles is superimposed on the letters "B" and "o".
+    fixed script_ ↓
+    This shoe collection is in tribute to the likes of a painter LeonardFujita. Incorporating Bohemian details from the Montparnasse of Parisian town in which Fujita had lived, I have attempted to express the Bohemian aesthetic in the form of specifically weaved shoelaces. When you prepare to go out far with weaving a shoelace by picturing a brilliant journey, you can be a traveler such as Leonard Fujita.
 
-Planning a brand "XND" as part of the art direction works for XANADU TOKYO. I created visual images and logotypes. This work is still in progress and aiming to expand into apparel or other products.
+    LeapMindにて、推論モデルの高度な圧縮を可能にするネットワークライブラリを含んだソフトウェアスタックをオープンソースとして公開することとなった。
+    このプロジェクトではロゴマーク、ロゴタイプに加えヴィジュルイメージの作成を行った。それらは公式ランディングページに用いられている。また、このオープンソースプラットフォームの紹介動画等、広告ツールの作成も行なった。
 
-#exhibition_f
-大型改装工事を控えるJR秋葉原駅高架下のスペースにて、写真家野辺陽平との企画展開催の依頼があり、共同作品展示を行った。
-フェティシズムをテーマに写真作品を主体とし、アートワークを展開。
-人間が魅力を感じるというシステムそのものを考察し、様々な観点からモチーフとテーマを与え表現した。
 
-単語の起源であるラテン語のファクテシウスから着想を得て、超自然的な力によって形作られるオブジェクトである果実の種子に着目した作品を制作した。
-種子が持つ固有の価値が変色によって変化していく様子を捉えている。
-この作品群はポストカードや缶バッジなどのノベルティーとして展開した。また、展示タイトルの為のタイポグラフィは"オブジェクトが持つ既存の価値が変化する過程"をテーマとして作成した。
-自然発生したオブジェクトが、外的要素によって人工物へと存在を変化させる際、其れはある種呪術的とも言える作用を示します。
 
-人体における髪は、人間と極めて密接に存在する物の一つであり、且つその在り方を作為的に変化させられてしまう物です。
-そのもの自体が誕生する過程に関与できなかった人間が崇拝可能なチャームへと在り方を転換させる行為はフェティシズムの一貫であると言えます。
-趣向を意味するフェティシュという言葉の裏側には、自然発生的なフォルムを人間にとって好都合なフォルムへと転換することで、人間の創作欲求を満たす、道具を発明した唯一の種である人間の根本的性質という意味が隠されている。
+    At LeapMind, a software stack that includes some of the network libraries that enable
+    advanced minimum quantization of inference models was released as open-source.
+    In this project, I created a visual image in addition to the logo and logotype. 
+    These are used on the official landing page.
+    And I also created advertising tools such as videos or leaflet for introducing use ways of the open-source platform.
 
-In a space under the JR Akihabara Station viaduct, which was about to undergo a major renovation project, we received a request from a photographer, Yohei Nobe, to exhibit a joint work. He develops artwork mainly on photographic works on the theme of fetishism. Philosophically, he considered a system that appeals to humans, and gave and expressed motifs and themes from various perspectives.
-Inspired by the Latin word Factesius, the origin of the word, he created a work focusing on fruit seeds, objects that are shaped by supernatural forces. It captures how the inherent value of seeds changes with discoloration.
-These works were developed as novelties such as postcard
-s and can badges. And, the typography for the exhibition title was created with the theme of "the process of changing the existing value of objects".
-When a naturally-occurring object changes its existence into an artifact by an external factor, it exhibits a kind of magical effect. Hair in the human body is one of the things that exist very closely with humans, and that can change the way it is artificially. The act of transforming a person into a worshipable charm that could not be involved in the process of being born itself is a part of fetishism.
 
-#DIANA
+    ダイアグラム　構造　：　幾何学図形応用　Diagram structure: Geometric figure application
+    名称の由来はウラジーミル・ソローキンのголубое сало(Blue Lard)から引用。近代社会の情報の海に、DeepLearningを活用するための源(Blueoil)が滴り落ち、染み込んでいく情景描写を"B"と"o"の文字と重ね合わせる様に正円の連なりで表現した。
+    The origin of the name is quoted by novel "голубое сало (Blue Lard)" written by Vladimir Sorokin. 
+    The scene description in which the source (Blueoil) of DeepLearning drips into the sea of ​​information in modern society 
+    and expresses it as a series of perfect circles is superimposed on the letters "B" and "o".
 
-2017 spring / summer collection line up "Luminous Exotic"
-Straight cut instep part and sharpen sideline show  contrast with wide ankle belt.
-In the color development, I used bright colors and vivid patterns  to express the exotic mood.
+    Planning a brand "XND" as part of the art direction works for XANADU TOKYO. I created visual images and logotypes. This work is still in progress and aiming to expand into apparel or other products.
 
-2017 spring / summer collection line up "Luminous Exotic"
-細くカットした革を編み込むことで、現代的なヒールパンプスのシルエットに、東洋やエジプトを想わせるエキゾチックなディテールを与ている。
-At 2017 spring / summer "Luminous Exotic" collection line up.
-The modern heel pumps silhouette and exotic atmosphere reminding of the Orient or the Egyptian taste are mixed up by weaving thinly cut leather into the front upper.
-Ghillie styleのレースアップをベルトで再現。バックルの光沢感とコルクのサーフェイスは対照的な性質を組み合わせることでアクセントにしており、履くシーンをより多くすることも目的にしている。
-Ghillie's style lace-up is reproduced with a belt. The gloss of the buckle and the surface of the cork are combining to be accented by contrasting qualities, and it aims to be able to wear in various scenes.
-At 2016 autumn / winter "Urban Bohemian" collection line up.
-about 10mm thick instorm is in inside. And shoe last was made in pursuit of a beautiful shape. 
-As shown in the collection title, to bring the freedom of the Bohemian into an urban lifestyle, so detachable shoe laces with a tassel is attached.
+    #exhibition_f
+    大型改装工事を控えるJR秋葉原駅高架下のスペースにて、写真家野辺陽平との企画展開催の依頼があり、共同作品展示を行った。
+    フェティシズムをテーマに写真作品を主体とし、アートワークを展開。
+    人間が魅力を感じるというシステムそのものを考察し、様々な観点からモチーフとテーマを与え表現した。
 
+    単語の起源であるラテン語のファクテシウスから着想を得て、超自然的な力によって形作られるオブジェクトである果実の種子に着目した作品を制作した。
+    種子が持つ固有の価値が変色によって変化していく様子を捉えている。
+    この作品群はポストカードや缶バッジなどのノベルティーとして展開した。また、展示タイトルの為のタイポグラフィは"オブジェクトが持つ既存の価値が変化する過程"をテーマとして作成した。
+    自然発生したオブジェクトが、外的要素によって人工物へと存在を変化させる際、其れはある種呪術的とも言える作用を示します。
+
+    人体における髪は、人間と極めて密接に存在する物の一つであり、且つその在り方を作為的に変化させられてしまう物です。
+    そのもの自体が誕生する過程に関与できなかった人間が崇拝可能なチャームへと在り方を転換させる行為はフェティシズムの一貫であると言えます。
+    趣向を意味するフェティシュという言葉の裏側には、自然発生的なフォルムを人間にとって好都合なフォルムへと転換することで、人間の創作欲求を満たす、道具を発明した唯一の種である人間の根本的性質という意味が隠されている。
+
+    In a space under the JR Akihabara Station viaduct, which was about to undergo a major renovation project, we received a request from a photographer, Yohei Nobe, to exhibit a joint work. He develops artwork mainly on photographic works on the theme of fetishism. Philosophically, he considered a system that appeals to humans, and gave and expressed motifs and themes from various perspectives.
+    Inspired by the Latin word Factesius, the origin of the word, he created a work focusing on fruit seeds, objects that are shaped by supernatural forces. It captures how the inherent value of seeds changes with discoloration.
+    These works were developed as novelties such as postcard
+    s and can badges. And, the typography for the exhibition title was created with the theme of "the process of changing the existing value of objects".
+    When a naturally-occurring object changes its existence into an artifact by an external factor, it exhibits a kind of magical effect. Hair in the human body is one of the things that exist very closely with humans, and that can change the way it is artificially. The act of transforming a person into a worshipable charm that could not be involved in the process of being born itself is a part of fetishism.
+
+    #DIANA
+
+    2017 spring / summer collection line up "Luminous Exotic"
+    Straight cut instep part and sharpen sideline show  contrast with wide ankle belt.
+    In the color development, I used bright colors and vivid patterns  to express the exotic mood.
+
+    2017 spring / summer collection line up "Luminous Exotic"
+    細くカットした革を編み込むことで、現代的なヒールパンプスのシルエットに、東洋やエジプトを想わせるエキゾチックなディテールを与ている。
+    At 2017 spring / summer "Luminous Exotic" collection line up.
+    The modern heel pumps silhouette and exotic atmosphere reminding of the Orient or the Egyptian taste are mixed up by weaving thinly cut leather into the front upper.
+    Ghillie styleのレースアップをベルトで再現。バックルの光沢感とコルクのサーフェイスは対照的な性質を組み合わせることでアクセントにしており、履くシーンをより多くすることも目的にしている。
+    Ghillie's style lace-up is reproduced with a belt. The gloss of the buckle and the surface of the cork are combining to be accented by contrasting qualities, and it aims to be able to wear in various scenes.
+    At 2016 autumn / winter "Urban Bohemian" collection line up.
+    about 10mm thick instorm is in inside. And shoe last was made in pursuit of a beautiful shape. 
+    As shown in the collection title, to bring the freedom of the Bohemian into an urban lifestyle, so detachable shoe laces with a tassel is attached.
 ##- memo -##
