@@ -212,10 +212,35 @@ h2 a{
   line-height: 1.15em;
   margin-left: 46px;
   margin-right: 46px;
-  color: #808686;
+  color: #696969;
   text-decoration: none;
 }
 
+h3 a{
+  font-family: 'Lato';
+  font-weight: 300;
+  font-size: 0.7em;
+  line-height: 1.15em;
+  margin-left: 46px;
+  margin-right: 46px;
+  color: #696969;
+  text-decoration: none;
+}
+
+.sp_menu {
+  margin-top: 2em;
+}
+
+.sp_menu li a{
+  font-family: 'Lato';
+  font-weight: 300;
+  font-size: 1em;
+  line-height: 1.6em;
+  margin-left: 46px;
+  margin-right: 46px;
+  color: #4f4f4f;
+  text-decoration: none;
+}
 
 
 /* PageTopBtn_style */
@@ -243,7 +268,7 @@ h2 a{
 
 
 /* PageTopBtn_style_PC */
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   #PageTopBtn {
       font-size: 1.8rem; /*文字のサイズ*/
   }
@@ -252,20 +277,38 @@ h2 a{
       height: 70px; /*ボタンの高さ*/
       padding: 24px 0; /*文字の配置場所の調整*/
   }
+  h3 {
+    display: none;
   }
+  .sp_menu li a{
+    display: none;
+  }
+}
 
 /* PageTopBtn_style_SP */
-@media (max-width: 767px) {
-  #PageTopBtn {
-      font-size: 1.4rem;
+@media (max-width: 768px) {
+  #nav_toggle {
+    display: none;
   }
-  #PageTopBtn a {
-      width: 70px;
-      height: 70px;
-      padding: 15px 0;
+  #nav_toggle li{
+    display: none;
   }
+  h1{
+    font-family: 'Lato';
+    font-weight: 300;
+    font-size: 2em;
+    line-height: inherit;
+    position: center;
+    padding-top: 8vh;
+    margin-left: 46px;
+    margin-right: 92px;
+    margin-bottom: 4vh;
+    color: #808686;
   }
-
+  h2 {
+    display: none;
+  }
+}
 
 
 /* loading */
