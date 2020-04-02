@@ -88,7 +88,7 @@ header nav ul li a{
   color: #c1c1c1;
   text-decoration: none;
   font-family: 'Lato';
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-weight:100;
   padding: 16px;
 }
@@ -163,13 +163,6 @@ body,html {
     height: 100%;
   }
   body {
-    /* background-color: #464646;
-    background-image: url("../img/cover.png");
-    background-position: center center;
-    background-size: cover; 
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    margin: 0; */
     font-family: YakuHanJP, 'Open Sans', "Noto Sans Japanese", 'Lato',
       'Muli', 'メイリオ', 'Hiragino Kaku Gothic ProN', 'Heebo', sans-serif;
     -webkit-font-smoothing: antialiased;
