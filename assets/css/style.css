@@ -280,10 +280,7 @@ h3 a{
 
 /* PageTopBtn_style_SP */
 @media (max-width: 768px) {
-  #nav_toggle {
-    display: none;
-  }
-  #nav_toggle li{
+  header {
     display: none;
   }
   h1{
