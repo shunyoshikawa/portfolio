@@ -33,7 +33,7 @@ Portfolio
 ###
 
 ####archive page
-https://www.shun-yoshikawa.com/archive
+https://www.shun-yoshikawa.com/gallery
     DIRECTION WORK FOR XANADU TOKYO WEBSITE
     COLLABORATED WITH SHUICHI MIZUTA
     
@@ -285,8 +285,10 @@ https://www.shun-yoshikawa.com/test
     THE APPEARANCE OF FLOWING SOMETHING
     PERSONAL TRIAL WORK
         The appearance by 3D modeling and rendering to represent the textures and surfaces of transparent liquids and glass. This is an experimental work by an individual and has not been published or offered to others.
-
-
+    CONCENTRATING ON PHENOMENON IN
+    SURROUNDINGS
+        Looking for new discoveries by looking at mundane things. This work is an experiment in observing discovered events and researching new ways of processing materials.
+        I applied the change of leather fibers caused by the application of heat to leather and used the mundane grain of wood as a visual motif. The texture of the grain wood is expressed in a three-dimensional manner to evoke the image of the growth of the tree. By useing as a material for a wallet or clutch bag, it becomes a product that changes irregularly as it is used.
 ####
 
 ####contact page
