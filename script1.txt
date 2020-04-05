@@ -33,7 +33,7 @@ Portfolio
 ###
 
 ####archive page
-https://www.shun-yoshikawa.com/gallery
+https://www.shunyoshikawa.com/archive
     DIRECTION WORK FOR XANADU TOKYO WEBSITE
     COLLABORATED WITH SHUICHI MIZUTA
     
@@ -281,7 +281,7 @@ https://www.shun-yoshikawa.com/gallery
 ---detail pages---
 
 ####gallery page
-https://www.shun-yoshikawa.com/test
+https://www.shun-yoshikawa.com/gallery
     THE APPEARANCE OF FLOWING SOMETHING
     PERSONAL TRIAL WORK
         The appearance by 3D modeling and rendering to represent the textures and surfaces of transparent liquids and glass. This is an experimental work by an individual and has not been published or offered to others.
@@ -292,7 +292,7 @@ https://www.shun-yoshikawa.com/test
 ####
 
 ####contact page
-https://www.shun-yoshikawa.com/contact
+https://www.shunyoshikawa.com/contact
     ABOUT ME.
 
     Born on 9 February 1990 - I am a designer based in Tokyo and active mainly in product design but also graphic, web, fashion, and art direction. I had graduated from an art university and majored in product design (mainly industrial design).
