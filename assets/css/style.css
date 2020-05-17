@@ -112,6 +112,7 @@ header nav ul li a small{
   right: 62px;
   position: fixed;
   z-index: 200;
+  cursor: pointer;
 }
 #nav_toggle div {
   position: relative;
