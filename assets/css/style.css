@@ -56,7 +56,7 @@ table {
 /* header */
 /*nav menu*/
 nav{
-  display:block;
+  display:none;
   position: fixed;
   top:0;
   width: 32vw;
@@ -105,7 +105,7 @@ header nav ul li a small{
 
 /*humb BTN*/
 #nav_toggle{
-  display: none;
+  display: block;
   width: 64px;
   height: 64px;
   margin-top: 6vh;
